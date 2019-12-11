@@ -1,0 +1,3 @@
+[submodule "src/drivers/mcu/st_std_lib"]
+	path = src/drivers/mcu/st_std_lib
+	url = https://github.com/benhaz1024/stm32f1_std_lib.git
